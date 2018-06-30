@@ -1,2 +1,2 @@
 # Experience-with-C-Sharp
-C# programs that I will start writing in very near future.
+Programs and fragments/algorithms I write in C# for experimental purposes only. [Repository has been created before starting studying C# programming language].
